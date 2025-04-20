@@ -1,6 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("FDSFundraiserFilled16Icon",["cr:14025"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=b("cr:14025")}),98);
-__d("FDSFundraiserFilled16PNGIcon.react",["ix","fbicon"],(function(a,b,c,d,e,f,g,h){"use strict";a=d("fbicon")._(h("510953"),16);b=a;g["default"]=b}),98);
-__d("FDSRepeatFilled16Icon",["cr:15582"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=b("cr:15582")}),98);
-__d("FDSRepeatFilled16PNGIcon.react",["ix","fbicon"],(function(a,b,c,d,e,f,g,h){"use strict";a=d("fbicon")._(h("894753"),16);b=a;g["default"]=b}),98);
